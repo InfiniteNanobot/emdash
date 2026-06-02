@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Guest"
 msgstr " - ผู้เยี่ยมชม"
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Linked"
 msgstr " - เชื่อมโยงแล้ว"
 
@@ -718,7 +718,7 @@ msgstr "จัดชิดขวา"
 msgid "All"
 msgstr "ทั้งหมด"
 
-#: packages/admin/src/routes/bylines.tsx:325
+#: packages/admin/src/routes/bylines.tsx:336
 msgid "All bylines"
 msgstr "ชื่อผู้เขียนทั้งหมด"
 
@@ -1070,7 +1070,7 @@ msgstr "ก่อนส่ง:"
 msgid "Bing Verification"
 msgstr "การยืนยัน Bing"
 
-#: packages/admin/src/routes/bylines.tsx:409
+#: packages/admin/src/routes/bylines.tsx:420
 msgid "Bio"
 msgstr "ประวัติย่อ"
 
@@ -1121,7 +1121,7 @@ msgstr "รายการแบบจุด"
 
 #: packages/admin/src/components/ContentEditor.tsx:996
 #: packages/admin/src/components/Sidebar.tsx:209
-#: packages/admin/src/routes/bylines.tsx:299
+#: packages/admin/src/routes/bylines.tsx:310
 msgid "Bylines"
 msgstr "ชื่อผู้เขียน"
 
@@ -1632,7 +1632,7 @@ msgstr "จำนวน"
 #: packages/admin/src/components/Sections.tsx:212
 #: packages/admin/src/components/TaxonomyManager.tsx:479
 #: packages/admin/src/components/Widgets.tsx:389
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Create"
 msgstr "สร้าง"
 
@@ -1663,7 +1663,7 @@ msgid "Create an account"
 msgstr "สร้างบัญชี"
 
 #: packages/admin/src/components/ContentEditor.tsx:2120
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Create byline"
 msgstr "สร้างชื่อผู้เขียน"
 
@@ -1925,8 +1925,8 @@ msgstr "กำหนดไว้ในโค้ด"
 #: packages/admin/src/components/Sections.tsx:407
 #: packages/admin/src/components/TaxonomyManager.tsx:886
 #: packages/admin/src/components/Widgets.tsx:636
-#: packages/admin/src/routes/bylines.tsx:465
-#: packages/admin/src/routes/bylines.tsx:501
+#: packages/admin/src/routes/bylines.tsx:476
+#: packages/admin/src/routes/bylines.tsx:512
 msgid "Delete"
 msgstr "ลบ"
 
@@ -1966,7 +1966,7 @@ msgstr "ลบพื้นที่วิดเจ็ต {0}"
 msgid "Delete {0}?"
 msgstr "ลบ {0} หรือไม่?"
 
-#: packages/admin/src/routes/bylines.tsx:499
+#: packages/admin/src/routes/bylines.tsx:510
 msgid "Delete Byline?"
 msgstr "ลบชื่อผู้เขียนหรือไม่?"
 
@@ -2059,7 +2059,7 @@ msgstr "ลบแล้ว"
 #: packages/admin/src/components/Sections.tsx:309
 #: packages/admin/src/components/TaxonomyManager.tsx:887
 #: packages/admin/src/components/Widgets.tsx:637
-#: packages/admin/src/routes/bylines.tsx:502
+#: packages/admin/src/routes/bylines.tsx:513
 msgid "Deleting..."
 msgstr "กำลังลบ..."
 
@@ -2206,7 +2206,7 @@ msgstr "แสดงเมนูนำทาง"
 
 #: packages/admin/src/components/ContentEditor.tsx:2123
 #: packages/admin/src/components/ContentEditor.tsx:2185
-#: packages/admin/src/routes/bylines.tsx:394
+#: packages/admin/src/routes/bylines.tsx:405
 msgid "Display name"
 msgstr "ชื่อที่แสดง"
 
@@ -2372,7 +2372,7 @@ msgstr "แก้ไข"
 #: packages/admin/src/components/settings/AllowedDomainsSettings.tsx:276
 #: packages/admin/src/components/TaxonomyManager.tsx:89
 #: packages/admin/src/components/TaxonomyManager.tsx:361
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Edit {0}"
 msgstr "แก้ไข {0}"
 
@@ -2874,7 +2874,7 @@ msgid "Failed to load allowed domains"
 msgstr "โหลดโดเมนที่อนุญาตไม่สำเร็จ"
 
 #. placeholder {0}: error.message
-#: packages/admin/src/routes/bylines.tsx:287
+#: packages/admin/src/routes/bylines.tsx:298
 msgid "Failed to load bylines: {0}"
 msgstr "โหลดชื่อผู้เขียนไม่สำเร็จ: {0}"
 
@@ -3156,7 +3156,7 @@ msgstr "กรองตามสถานะ"
 msgid "Filter by type"
 msgstr "กรองตามประเภท"
 
-#: packages/admin/src/routes/bylines.tsx:321
+#: packages/admin/src/routes/bylines.tsx:332
 msgid "Filter byline type"
 msgstr "กรองตามประเภทชื่อผู้เขียน"
 
@@ -3226,11 +3226,11 @@ msgstr "มุมมองตาราง"
 msgid "Group (optional)"
 msgstr "กลุ่ม (ไม่บังคับ)"
 
-#: packages/admin/src/routes/bylines.tsx:432
+#: packages/admin/src/routes/bylines.tsx:443
 msgid "Guest byline"
 msgstr "ชื่อผู้เขียนรับเชิญ"
 
-#: packages/admin/src/routes/bylines.tsx:326
+#: packages/admin/src/routes/bylines.tsx:337
 msgid "Guest only"
 msgstr "เฉพาะผู้มาเยือนเท่านั้น"
 
@@ -3724,11 +3724,11 @@ msgstr "ลิงก์ไปยังรายการเนื้อหาอ
 msgid "Linked Accounts ({0})"
 msgstr "บัญชีที่เชื่อมโยง ({0})"
 
-#: packages/admin/src/routes/bylines.tsx:327
+#: packages/admin/src/routes/bylines.tsx:338
 msgid "Linked only"
 msgstr "เชื่อมโยงเท่านั้น"
 
-#: packages/admin/src/routes/bylines.tsx:415
+#: packages/admin/src/routes/bylines.tsx:426
 msgid "Linked user"
 msgstr "ผู้ใช้ที่เชื่อมโยง"
 
@@ -3752,7 +3752,7 @@ msgstr "มุมมองสด"
 #: packages/admin/src/components/MarketplaceBrowse.tsx:198
 #: packages/admin/src/components/RegistryBrowse.tsx:143
 #: packages/admin/src/components/ThemeMarketplaceBrowse.tsx:170
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Load more"
 msgstr "โหลดเพิ่มเติม"
 
@@ -3841,7 +3841,7 @@ msgstr "กำลังโหลดวิดเจ็ต..."
 #: packages/admin/src/components/ThemeMarketplaceDetail.tsx:143
 #: packages/admin/src/components/users/UserList.tsx:156
 #: packages/admin/src/components/WelcomeModal.tsx:143
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Loading..."
 msgstr "กำลังโหลด..."
 
@@ -4199,7 +4199,7 @@ msgstr "ไม่เลย"
 msgid "new"
 msgstr "ใหม่"
 
-#: packages/admin/src/routes/bylines.tsx:339
+#: packages/admin/src/routes/bylines.tsx:350
 msgid "New"
 msgstr "ใหม่"
 
@@ -4315,7 +4315,7 @@ msgstr "ยังไม่มีความคิดเห็นที่อน
 msgid "No bylines available in {entryLocale}. Create a variant from the Bylines page before crediting one on this entry."
 msgstr "ไม่มีชื่อผู้เขียนให้ใช้งานใน {entryLocale} สร้างรูปแบบจากหน้าชื่อผู้เขียนก่อนที่จะระบุเครดิตในรายการนี้"
 
-#: packages/admin/src/routes/bylines.tsx:365
+#: packages/admin/src/routes/bylines.tsx:376
 msgid "No bylines found"
 msgstr "ไม่พบชื่อผู้เขียน"
 
@@ -4404,7 +4404,7 @@ msgstr "ยังไม่มีรายการ"
 msgid "No limit"
 msgstr "ไม่จำกัด"
 
-#: packages/admin/src/routes/bylines.tsx:426
+#: packages/admin/src/routes/bylines.tsx:437
 msgid "No linked user"
 msgstr "ไม่มีผู้ใช้ที่เชื่อมโยง"
 
@@ -5408,7 +5408,7 @@ msgstr "หน้าต่างเดียวกัน"
 #: packages/admin/src/components/Redirects.tsx:183
 #: packages/admin/src/components/SaveButton.tsx:42
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Save"
 msgstr "บันทึก"
 
@@ -5470,7 +5470,7 @@ msgstr "บันทึกแล้ว"
 #: packages/admin/src/components/TaxonomyManager.tsx:476
 #: packages/admin/src/components/users/UserDetail.tsx:311
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Saving..."
 msgstr "กำลังบันทึก..."
 
@@ -5581,7 +5581,7 @@ msgstr "ค้นหา {0}..."
 msgid "Search by name or email..."
 msgstr "ค้นหาตามชื่อหรืออีเมล..."
 
-#: packages/admin/src/routes/bylines.tsx:314
+#: packages/admin/src/routes/bylines.tsx:325
 msgid "Search bylines"
 msgstr "ค้นหาชื่อผู้เขียน"
 
@@ -6090,7 +6090,7 @@ msgstr "ข้ามแล้ว"
 #: packages/admin/src/components/SectionEditor.tsx:244
 #: packages/admin/src/components/Sections.tsx:184
 #: packages/admin/src/components/TaxonomyManager.tsx:398
-#: packages/admin/src/routes/bylines.tsx:399
+#: packages/admin/src/routes/bylines.tsx:410
 msgid "Slug"
 msgstr "Slug"
 
@@ -6430,7 +6430,7 @@ msgstr "กฎการเปลี่ยนเส้นทางนี้จะ
 msgid "This release requires a newer environment than your site currently runs. Upgrade before installing."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:500
+#: packages/admin/src/routes/bylines.tsx:511
 msgid "This removes the byline profile. Content byline links are removed and lead pointers are cleared."
 msgstr "การดำเนินการนี้จะนำโปรไฟล์ชื่อผู้เขียนออก ลิงก์ชื่อผู้เขียนในเนื้อหาจะถูกนำออกและตัวชี้รายการนำจะถูกล้าง"
 
@@ -7137,7 +7137,7 @@ msgstr "WebAuthn ไม่รองรับในเบราว์เซอร
 msgid "Website"
 msgstr "เว็บไซต์"
 
-#: packages/admin/src/routes/bylines.tsx:404
+#: packages/admin/src/routes/bylines.tsx:415
 msgid "Website URL"
 msgstr "URL ของเว็บไซต์"
 

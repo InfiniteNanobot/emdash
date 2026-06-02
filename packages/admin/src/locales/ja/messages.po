@@ -13,11 +13,11 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Guest"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Linked"
 msgstr ""
 
@@ -718,7 +718,7 @@ msgstr ""
 msgid "All"
 msgstr "すべて"
 
-#: packages/admin/src/routes/bylines.tsx:325
+#: packages/admin/src/routes/bylines.tsx:336
 msgid "All bylines"
 msgstr ""
 
@@ -1070,7 +1070,7 @@ msgstr "送信前:"
 msgid "Bing Verification"
 msgstr "Bing認証"
 
-#: packages/admin/src/routes/bylines.tsx:409
+#: packages/admin/src/routes/bylines.tsx:420
 msgid "Bio"
 msgstr ""
 
@@ -1121,7 +1121,7 @@ msgstr "箇条書きリスト"
 
 #: packages/admin/src/components/ContentEditor.tsx:996
 #: packages/admin/src/components/Sidebar.tsx:209
-#: packages/admin/src/routes/bylines.tsx:299
+#: packages/admin/src/routes/bylines.tsx:310
 msgid "Bylines"
 msgstr "署名"
 
@@ -1632,7 +1632,7 @@ msgstr "件数"
 #: packages/admin/src/components/Sections.tsx:212
 #: packages/admin/src/components/TaxonomyManager.tsx:479
 #: packages/admin/src/components/Widgets.tsx:389
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Create"
 msgstr "作成"
 
@@ -1663,7 +1663,7 @@ msgid "Create an account"
 msgstr "アカウントを作成"
 
 #: packages/admin/src/components/ContentEditor.tsx:2120
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Create byline"
 msgstr "署名を作成"
 
@@ -1925,8 +1925,8 @@ msgstr ""
 #: packages/admin/src/components/Sections.tsx:407
 #: packages/admin/src/components/TaxonomyManager.tsx:886
 #: packages/admin/src/components/Widgets.tsx:636
-#: packages/admin/src/routes/bylines.tsx:465
-#: packages/admin/src/routes/bylines.tsx:501
+#: packages/admin/src/routes/bylines.tsx:476
+#: packages/admin/src/routes/bylines.tsx:512
 msgid "Delete"
 msgstr "削除"
 
@@ -1966,7 +1966,7 @@ msgstr ""
 msgid "Delete {0}?"
 msgstr "{0}を削除しますか？"
 
-#: packages/admin/src/routes/bylines.tsx:499
+#: packages/admin/src/routes/bylines.tsx:510
 msgid "Delete Byline?"
 msgstr ""
 
@@ -2059,7 +2059,7 @@ msgstr "削除済み"
 #: packages/admin/src/components/Sections.tsx:309
 #: packages/admin/src/components/TaxonomyManager.tsx:887
 #: packages/admin/src/components/Widgets.tsx:637
-#: packages/admin/src/routes/bylines.tsx:502
+#: packages/admin/src/routes/bylines.tsx:513
 msgid "Deleting..."
 msgstr "削除中..."
 
@@ -2206,7 +2206,7 @@ msgstr "ナビゲーションメニューを表示"
 
 #: packages/admin/src/components/ContentEditor.tsx:2123
 #: packages/admin/src/components/ContentEditor.tsx:2185
-#: packages/admin/src/routes/bylines.tsx:394
+#: packages/admin/src/routes/bylines.tsx:405
 msgid "Display name"
 msgstr "表示名"
 
@@ -2372,7 +2372,7 @@ msgstr "編集"
 #: packages/admin/src/components/settings/AllowedDomainsSettings.tsx:276
 #: packages/admin/src/components/TaxonomyManager.tsx:89
 #: packages/admin/src/components/TaxonomyManager.tsx:361
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Edit {0}"
 msgstr "{0}を編集"
 
@@ -2874,7 +2874,7 @@ msgid "Failed to load allowed domains"
 msgstr "許可ドメインの読み込みに失敗しました"
 
 #. placeholder {0}: error.message
-#: packages/admin/src/routes/bylines.tsx:287
+#: packages/admin/src/routes/bylines.tsx:298
 msgid "Failed to load bylines: {0}"
 msgstr ""
 
@@ -3156,7 +3156,7 @@ msgstr ""
 msgid "Filter by type"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:321
+#: packages/admin/src/routes/bylines.tsx:332
 msgid "Filter byline type"
 msgstr ""
 
@@ -3226,11 +3226,11 @@ msgstr "グリッド表示"
 msgid "Group (optional)"
 msgstr "グループ（任意）"
 
-#: packages/admin/src/routes/bylines.tsx:432
+#: packages/admin/src/routes/bylines.tsx:443
 msgid "Guest byline"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:326
+#: packages/admin/src/routes/bylines.tsx:337
 msgid "Guest only"
 msgstr ""
 
@@ -3724,11 +3724,11 @@ msgstr "他のコンテンツアイテムへのリンク"
 msgid "Linked Accounts ({0})"
 msgstr "リンクされたアカウント ({0})"
 
-#: packages/admin/src/routes/bylines.tsx:327
+#: packages/admin/src/routes/bylines.tsx:338
 msgid "Linked only"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:415
+#: packages/admin/src/routes/bylines.tsx:426
 msgid "Linked user"
 msgstr ""
 
@@ -3752,7 +3752,7 @@ msgstr "ライブビュー"
 #: packages/admin/src/components/MarketplaceBrowse.tsx:198
 #: packages/admin/src/components/RegistryBrowse.tsx:143
 #: packages/admin/src/components/ThemeMarketplaceBrowse.tsx:170
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Load more"
 msgstr "もっと読み込む"
 
@@ -3841,7 +3841,7 @@ msgstr ""
 #: packages/admin/src/components/ThemeMarketplaceDetail.tsx:143
 #: packages/admin/src/components/users/UserList.tsx:156
 #: packages/admin/src/components/WelcomeModal.tsx:143
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Loading..."
 msgstr "読み込み中..."
 
@@ -4199,7 +4199,7 @@ msgstr "なし"
 msgid "new"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:339
+#: packages/admin/src/routes/bylines.tsx:350
 msgid "New"
 msgstr ""
 
@@ -4315,7 +4315,7 @@ msgstr "承認済みのコメントはまだありません。"
 msgid "No bylines available in {entryLocale}. Create a variant from the Bylines page before crediting one on this entry."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:365
+#: packages/admin/src/routes/bylines.tsx:376
 msgid "No bylines found"
 msgstr ""
 
@@ -4404,7 +4404,7 @@ msgstr "アイテムはまだありません"
 msgid "No limit"
 msgstr "制限なし"
 
-#: packages/admin/src/routes/bylines.tsx:426
+#: packages/admin/src/routes/bylines.tsx:437
 msgid "No linked user"
 msgstr ""
 
@@ -5405,7 +5405,7 @@ msgstr "同じウィンドウ"
 #: packages/admin/src/components/Redirects.tsx:183
 #: packages/admin/src/components/SaveButton.tsx:42
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Save"
 msgstr "保存"
 
@@ -5467,7 +5467,7 @@ msgstr "保存済み"
 #: packages/admin/src/components/TaxonomyManager.tsx:476
 #: packages/admin/src/components/users/UserDetail.tsx:311
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Saving..."
 msgstr "保存中..."
 
@@ -5578,7 +5578,7 @@ msgstr "{0}を検索..."
 msgid "Search by name or email..."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:314
+#: packages/admin/src/routes/bylines.tsx:325
 msgid "Search bylines"
 msgstr ""
 
@@ -6087,7 +6087,7 @@ msgstr "スキップ済み"
 #: packages/admin/src/components/SectionEditor.tsx:244
 #: packages/admin/src/components/Sections.tsx:184
 #: packages/admin/src/components/TaxonomyManager.tsx:398
-#: packages/admin/src/routes/bylines.tsx:399
+#: packages/admin/src/routes/bylines.tsx:410
 msgid "Slug"
 msgstr "スラッグ"
 
@@ -6427,7 +6427,7 @@ msgstr "このリダイレクトルールは完全に削除されます。"
 msgid "This release requires a newer environment than your site currently runs. Upgrade before installing."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:500
+#: packages/admin/src/routes/bylines.tsx:511
 msgid "This removes the byline profile. Content byline links are removed and lead pointers are cleared."
 msgstr ""
 
@@ -7134,7 +7134,7 @@ msgstr "このブラウザはWebAuthnに対応していません"
 msgid "Website"
 msgstr "ウェブサイト"
 
-#: packages/admin/src/routes/bylines.tsx:404
+#: packages/admin/src/routes/bylines.tsx:415
 msgid "Website URL"
 msgstr ""
 

@@ -15,11 +15,11 @@ msgstr ""
 "Language: \n"
 "Plural-Forms: \n"
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Guest"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:359
+#: packages/admin/src/routes/bylines.tsx:370
 msgid " - Linked"
 msgstr ""
 
@@ -720,7 +720,7 @@ msgstr ""
 msgid "All"
 msgstr "همه"
 
-#: packages/admin/src/routes/bylines.tsx:325
+#: packages/admin/src/routes/bylines.tsx:336
 msgid "All bylines"
 msgstr ""
 
@@ -1072,7 +1072,7 @@ msgstr "قبل از ارسال:"
 msgid "Bing Verification"
 msgstr "تأیید بینگ"
 
-#: packages/admin/src/routes/bylines.tsx:409
+#: packages/admin/src/routes/bylines.tsx:420
 msgid "Bio"
 msgstr ""
 
@@ -1123,7 +1123,7 @@ msgstr "لیست نشانه‌دار"
 
 #: packages/admin/src/components/ContentEditor.tsx:996
 #: packages/admin/src/components/Sidebar.tsx:209
-#: packages/admin/src/routes/bylines.tsx:299
+#: packages/admin/src/routes/bylines.tsx:310
 msgid "Bylines"
 msgstr "نام نگارندگان"
 
@@ -1634,7 +1634,7 @@ msgstr "تعداد"
 #: packages/admin/src/components/Sections.tsx:212
 #: packages/admin/src/components/TaxonomyManager.tsx:479
 #: packages/admin/src/components/Widgets.tsx:389
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Create"
 msgstr "ساخت جدید"
 
@@ -1665,7 +1665,7 @@ msgid "Create an account"
 msgstr "ساخت حساب کاربری"
 
 #: packages/admin/src/components/ContentEditor.tsx:2120
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Create byline"
 msgstr "ساخت نگارنده"
 
@@ -1927,8 +1927,8 @@ msgstr ""
 #: packages/admin/src/components/Sections.tsx:407
 #: packages/admin/src/components/TaxonomyManager.tsx:886
 #: packages/admin/src/components/Widgets.tsx:636
-#: packages/admin/src/routes/bylines.tsx:465
-#: packages/admin/src/routes/bylines.tsx:501
+#: packages/admin/src/routes/bylines.tsx:476
+#: packages/admin/src/routes/bylines.tsx:512
 msgid "Delete"
 msgstr "حذف"
 
@@ -1968,7 +1968,7 @@ msgstr ""
 msgid "Delete {0}?"
 msgstr "حذف {0}؟"
 
-#: packages/admin/src/routes/bylines.tsx:499
+#: packages/admin/src/routes/bylines.tsx:510
 msgid "Delete Byline?"
 msgstr ""
 
@@ -2061,7 +2061,7 @@ msgstr "حذف‌شده"
 #: packages/admin/src/components/Sections.tsx:309
 #: packages/admin/src/components/TaxonomyManager.tsx:887
 #: packages/admin/src/components/Widgets.tsx:637
-#: packages/admin/src/routes/bylines.tsx:502
+#: packages/admin/src/routes/bylines.tsx:513
 msgid "Deleting..."
 msgstr "در حال حذف..."
 
@@ -2208,7 +2208,7 @@ msgstr "نمایش فهرستی ناوبری"
 
 #: packages/admin/src/components/ContentEditor.tsx:2123
 #: packages/admin/src/components/ContentEditor.tsx:2185
-#: packages/admin/src/routes/bylines.tsx:394
+#: packages/admin/src/routes/bylines.tsx:405
 msgid "Display name"
 msgstr "نام نمایشی"
 
@@ -2374,7 +2374,7 @@ msgstr "ویرایش"
 #: packages/admin/src/components/settings/AllowedDomainsSettings.tsx:276
 #: packages/admin/src/components/TaxonomyManager.tsx:89
 #: packages/admin/src/components/TaxonomyManager.tsx:361
-#: packages/admin/src/routes/bylines.tsx:389
+#: packages/admin/src/routes/bylines.tsx:400
 msgid "Edit {0}"
 msgstr "ویرایش {0}"
 
@@ -2876,7 +2876,7 @@ msgid "Failed to load allowed domains"
 msgstr "بارگذاری دامنه‌های مجاز ناموفق بود"
 
 #. placeholder {0}: error.message
-#: packages/admin/src/routes/bylines.tsx:287
+#: packages/admin/src/routes/bylines.tsx:298
 msgid "Failed to load bylines: {0}"
 msgstr ""
 
@@ -3158,7 +3158,7 @@ msgstr ""
 msgid "Filter by type"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:321
+#: packages/admin/src/routes/bylines.tsx:332
 msgid "Filter byline type"
 msgstr ""
 
@@ -3228,11 +3228,11 @@ msgstr "نمای شبکه‌ای"
 msgid "Group (optional)"
 msgstr "گروه (اختیاری)"
 
-#: packages/admin/src/routes/bylines.tsx:432
+#: packages/admin/src/routes/bylines.tsx:443
 msgid "Guest byline"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:326
+#: packages/admin/src/routes/bylines.tsx:337
 msgid "Guest only"
 msgstr ""
 
@@ -3726,11 +3726,11 @@ msgstr "لینک به محتوای دیگر"
 msgid "Linked Accounts ({0})"
 msgstr "حساب‌های کاربری متصل ({0})"
 
-#: packages/admin/src/routes/bylines.tsx:327
+#: packages/admin/src/routes/bylines.tsx:338
 msgid "Linked only"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:415
+#: packages/admin/src/routes/bylines.tsx:426
 msgid "Linked user"
 msgstr ""
 
@@ -3754,7 +3754,7 @@ msgstr "نمای زنده"
 #: packages/admin/src/components/MarketplaceBrowse.tsx:198
 #: packages/admin/src/components/RegistryBrowse.tsx:143
 #: packages/admin/src/components/ThemeMarketplaceBrowse.tsx:170
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Load more"
 msgstr "بارگذاری بیشتر"
 
@@ -3843,7 +3843,7 @@ msgstr ""
 #: packages/admin/src/components/ThemeMarketplaceDetail.tsx:143
 #: packages/admin/src/components/users/UserList.tsx:156
 #: packages/admin/src/components/WelcomeModal.tsx:143
-#: packages/admin/src/routes/bylines.tsx:381
+#: packages/admin/src/routes/bylines.tsx:392
 msgid "Loading..."
 msgstr "در حال بارگذاری..."
 
@@ -4201,7 +4201,7 @@ msgstr "هرگز"
 msgid "new"
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:339
+#: packages/admin/src/routes/bylines.tsx:350
 msgid "New"
 msgstr ""
 
@@ -4317,7 +4317,7 @@ msgstr "هنوز دیدگاه تأییدشده‌ای وجود ندارد."
 msgid "No bylines available in {entryLocale}. Create a variant from the Bylines page before crediting one on this entry."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:365
+#: packages/admin/src/routes/bylines.tsx:376
 msgid "No bylines found"
 msgstr ""
 
@@ -4406,7 +4406,7 @@ msgstr "هنوز موردی نیست"
 msgid "No limit"
 msgstr "بدون حد"
 
-#: packages/admin/src/routes/bylines.tsx:426
+#: packages/admin/src/routes/bylines.tsx:437
 msgid "No linked user"
 msgstr ""
 
@@ -5407,7 +5407,7 @@ msgstr "همین پنجره"
 #: packages/admin/src/components/Redirects.tsx:183
 #: packages/admin/src/components/SaveButton.tsx:42
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Save"
 msgstr "ذخیره"
 
@@ -5469,7 +5469,7 @@ msgstr "ذخیره شد"
 #: packages/admin/src/components/TaxonomyManager.tsx:476
 #: packages/admin/src/components/users/UserDetail.tsx:311
 #: packages/admin/src/components/Widgets.tsx:894
-#: packages/admin/src/routes/bylines.tsx:456
+#: packages/admin/src/routes/bylines.tsx:467
 msgid "Saving..."
 msgstr "درحال ذخیره‌سازی …"
 
@@ -5580,7 +5580,7 @@ msgstr "جستجوی {0}..."
 msgid "Search by name or email..."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:314
+#: packages/admin/src/routes/bylines.tsx:325
 msgid "Search bylines"
 msgstr ""
 
@@ -6089,7 +6089,7 @@ msgstr "رد شده"
 #: packages/admin/src/components/SectionEditor.tsx:244
 #: packages/admin/src/components/Sections.tsx:184
 #: packages/admin/src/components/TaxonomyManager.tsx:398
-#: packages/admin/src/routes/bylines.tsx:399
+#: packages/admin/src/routes/bylines.tsx:410
 msgid "Slug"
 msgstr "اسلاگ"
 
@@ -6429,7 +6429,7 @@ msgstr "این قانون    تغییر مسیر برای همیشه حذف خو
 msgid "This release requires a newer environment than your site currently runs. Upgrade before installing."
 msgstr ""
 
-#: packages/admin/src/routes/bylines.tsx:500
+#: packages/admin/src/routes/bylines.tsx:511
 msgid "This removes the byline profile. Content byline links are removed and lead pointers are cleared."
 msgstr ""
 
@@ -7136,7 +7136,7 @@ msgstr "WebAuthn در این مرورگر پشتیبانی نمی‌شود"
 msgid "Website"
 msgstr "وبسایت"
 
-#: packages/admin/src/routes/bylines.tsx:404
+#: packages/admin/src/routes/bylines.tsx:415
 msgid "Website URL"
 msgstr ""
 
